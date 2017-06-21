@@ -1,0 +1,5 @@
+com\benz\entity\StudentAddress.class
+com\benz\util\HibernateConfig.class
+com\benz\servlet\RegistrationServlet.class
+com\benz\service\StudentService.class
+com\benz\entity\Student.class
